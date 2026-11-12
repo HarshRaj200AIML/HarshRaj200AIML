@@ -128,17 +128,17 @@ An AI-enabled intelligent transportation research concept exploring traffic-flow
 
 <div align="center">
 
-<img src="assets/hero.gif?v=1" alt="Harsh Raj — animated introduction" width="100%" />
+<img src="assets/hero.svg?v=1" alt="Harsh Raj — animated introduction" width="100%" />
 
 </div>
 
-<img src="assets/about-life.gif?v=1" alt="About Harsh Raj and rotating interests" width="100%" />
+<img src="assets/about-life.svg?v=1" alt="About Harsh Raj and rotating interests" width="100%" />
 
-<img src="assets/stack.gif?v=1" alt="Technology stack and tools" width="100%" />
+<img src="assets/stack.svg?v=1" alt="Technology stack and tools" width="100%" />
 
-<img src="assets/id-dashboard.gif?v=1" alt="Profile ID card with dated milestones" width="100%" />
+<img src="assets/id-dashboard.svg?v=1" alt="Profile ID card with dated milestones" width="100%" />
 
-<img src="assets/connect.gif?v=1" alt="Connect with Harsh Raj" width="100%" />
+<img src="assets/connect.svg?v=1" alt="Connect with Harsh Raj" width="100%" />
 
 <sub>These README panels use animated GIFs because GitHub documents that SVG animation is not supported in README rendering. The original self-contained SVG source files are retained in the repository package.</sub>
 
