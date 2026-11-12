@@ -120,3 +120,50 @@ An AI-enabled intelligent transportation research concept exploring traffic-flow
 <div align="center">
   <i>“Learn continuously. Build thoughtfully. Make data useful.”</i>
 </div>
+
+
+---
+
+## Animated Profile Panels
+
+<div align="center">
+
+<img src="assets/hero.svg?v=1" alt="Harsh Raj — animated introduction" width="100%" />
+
+</div>
+
+<img src="assets/about-life.svg?v=1" alt="About Harsh Raj and rotating interests" width="100%" />
+
+<img src="assets/stack.svg?v=1" alt="Technology stack and tools" width="100%" />
+
+<img src="assets/id-dashboard.svg?v=1" alt="Profile ID card with dated milestones" width="100%" />
+
+<img src="assets/connect.svg?v=1" alt="Connect with Harsh Raj" width="100%" />
+
+## Connect with me
+
+[![GitHub](https://img.shields.io/badge/GitHub-HarshRaj200AIML-111827?style=for-the-badge&logo=github)](https://github.com/HarshRaj200AIML)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harsh-raj200/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshraj872004@gmail.com)
+
+## Featured projects
+
+| Project | What it is | Repository |
+|---|---|---|
+| **DataNova AI** | Dataset dashboard with CSV/Excel intake, automatic RFM/HR/GEO dataset detection and K-Means segmentation views. | [Open repository](https://github.com/HarshRaj200AIML/datanovaai) |
+| **Library Management System** | Library website for book records, member details, issue/return tracking and fine calculations. | [Open repository](https://github.com/HarshRaj200AIML/Libaray-management-systeam-) |
+| **Secure System Call Interface** | C-based system-call interface project with separate process, login, file-operations, logging and system-information modules. | [Open repository](https://github.com/HarshRaj200AIML/SECURE_SYSTEM_CALL_SYSTEM) |
+| **Smart Traffic Brain System** | Research concept for adaptive signals, emergency-vehicle prioritisation, parking availability and violation detection. | Research concept; no public repository link supplied. |
+
+## About
+
+B.Tech student in Computer Science and Engineering (Artificial Intelligence & Machine Learning) at Lovely Professional University, Phagwara. Interested in Python, data analysis, machine learning, clustering, software development and practical problem-solving.
+
+- **Education:** B.Tech CSE (AI & ML), Lovely Professional University — Aug 2024 to present.
+- **Experience:** Data Science Intern, DSA Forge Pvt. Ltd. — Jun 2025 to Dec 2025.
+- **Training:** DSA Boot Camp (C++), Eduniketan Private Limited — Jun 2026 to Jul 2026.
+- **Publication:** “Evolution of Intelligent Computing Technologies,” book chapter in *Artificial Intelligence Driven Computing Systems (Volume 1)*, LPU Publication House, 2026.
+
+---
+
+<sub>Animated assets are self-contained SVGs: fonts and portrait PNGs are embedded as data. The original PNGs are also included in `assets/` for source preservation. The portrait files are retained without face edits or invented masks. The supplied pointing image has a fully opaque alpha channel, so its checkerboard background is retained as provided.</sub>
