@@ -41,6 +41,12 @@
 
 ## Featured Projects
 
+### Himalayan Flash Flood Intelligence Platform
+Research dashboard for exploring historical Himalayan flood evidence through an interactive Streamlit interface, Plotly 2D maps and sampled 3D terrain. Includes provenance, event replay, explainability views, and reproducible quality checks.
+
+- **Project:** [Open the public repository](https://github.com/HarshRaj200AIML/himalayan-flash-flood-intelligence-platform)
+ - **Research status:** Phase 4.7 real-data training is NO-GO; displayed model metrics are synthetic benchmarks. No live alerts or operational forecast are provided.
+
 ### 1. Secure System Call Interface
 A security-focused system-call interface concept centered on authentication, role-based access control (RBAC), usage logging, and visibility into system-call activity.
 
